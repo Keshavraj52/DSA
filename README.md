@@ -2,7 +2,11 @@
 
 This repository contains a collection of Jupyter notebooks for practicing and learning Data Structures and Algorithms (DSA) in Python. The code covers a variety of fundamental algorithms, problem-solving techniques, and coding patterns, making it a useful resource for interview preparation and academic study.
 
-## Repository Structure
+# Complete DSA Notes: 
+## Link: https://claude.ai/public/artifacts/96aae384-53dc-4bf6-ab3f-cad783311baa
+
+
+## Repository Structure 
 
 - **DSA.ipynb**: Step-by-step explanations and implementations of classic sorting algorithms (Quick Sort, Merge Sort, Selection Sort, Bubble Sort, Insertion Sort) and other DSA concepts.
 - **practice.ipynb**: Practice problems on array manipulation, such as finding smallest/largest elements, reversing arrays, and moving zeros to the end.
