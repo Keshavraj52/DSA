@@ -3,7 +3,7 @@
 This repository contains a collection of Jupyter notebooks for practicing and learning Data Structures and Algorithms (DSA) in Python. The code covers a variety of fundamental algorithms, problem-solving techniques, and coding patterns, making it a useful resource for interview preparation and academic study.
 
 # Complete DSA Notes: 
-## Link: https://claude.ai/public/artifacts/96aae384-53dc-4bf6-ab3f-cad783311baa
+## Link: https://claude.ai/public/artifacts/d4df3ed7-6466-4543-8022-b76e9d7e8ea0
 
 
 ## Repository Structure 
