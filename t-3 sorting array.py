@@ -27,8 +27,21 @@ class SortingArray:
             if swap==0:
                 return self.arr    
         return self.arr
+    def insertionSort(self, arr):
+        if len(arr)<=1:
+            return arr
+        for i in range(len(arr)):
+            key=arr[i]
+            j=i-1
+            while j>=0 and arr[j]>key:
+                arr[j+1]=arr[j]
+                j-=1
+            arr[j+1]=arr[i]
+        return arr
+
+
     
 arr=[1234,32,42,53,4424]
 SortClass=SortingArray(arr)
 
-print(SortClass.bubbleSort())
+print(SortClass.insertionSort())
